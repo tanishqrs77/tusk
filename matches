@@ -1,5 +1,22 @@
-rcb vs mi
-csk vs pune
+x=78
+if(x%2==0):
+    print("it is even")
+    if(x<23):
+        print("good")
+        if(++x>25):
+            print("good going")
 
-punjab vs kochi
-rr vs csk
+else:
+    print("goodbye")
+
+
+y=56
+if x<34:
+    print("greatt")
+
+elif x<23:
+    print("go")
+
+elif x>12:
+    print("good going")
+
